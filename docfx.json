@@ -1,0 +1,46 @@
+{
+  "metadata": [   
+	{
+	"src": [
+        {
+          "files": ["**/**.sln"],
+          "src": "../CSCN73030-ProjectV-UplinkDownlink-GroundStation/"
+        }
+      ],
+      "dest": "docs/api",
+      "disableGitFeatures": false,
+      "disableDefaultFilter": false
+    }
+  ],
+  "build": {
+    "template": ["statictoc"],
+    "content": [
+      {
+        "files": [
+		"docs/index.md",
+		"docs/toc.yml",
+		"docs/api/**.yml",
+		"docs/api/index.md",
+		"docs/samples/**"
+		]
+      },
+      {
+        "files": [
+          "docs/articles/**.md",
+          "docs/articles/**/toc.yml",
+          "docs/toc.yml",
+          "docs/*.md"
+        ]
+      }
+    ], 
+	"output": "docs/_site",
+    "globalMetadataFiles": [],
+    "fileMetadataFiles": [],
+    "postProcessors": [],
+    "markdownEngineName": "markdig",
+    "noLangKeyword": false,
+    "keepFileLink": false,
+    "cleanupCacheHistory": false,
+    "disableGitFeatures": true
+  } 
+}

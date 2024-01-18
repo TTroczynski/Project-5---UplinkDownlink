@@ -1,0 +1,151 @@
+{
+  "source_base_path": "C:/Users/Tom Troczynski/source/repos/MateoVG-coding/CSCN73030-ProjectV-UplinkDownlink-GroundStation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/Integration_Tests.Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/Integration_Tests.Tests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/Integration_Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/Integration_Tests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/Project_5.Downlink_Stubs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/Project_5.Downlink_Stubs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/Project_5.GroundSender_Stubs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/Project_5.GroundSender_Stubs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/Project_5.Stub_SpaceSender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/Project_5.Stub_SpaceSender.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/Project_5.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/Project_5.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/Unit_Tests.GroundSenderTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/Unit_Tests.GroundSenderTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/Unit_Tests.SpaceSenderTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/Unit_Tests.SpaceSenderTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/Unit_Tests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/Unit_Tests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/link.LinkController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/link.LinkController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "docs/api/link.yml",
+      "output": {
+        ".html": {
+          "relative_path": "docs/api/link.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/articles/intro.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/index.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
